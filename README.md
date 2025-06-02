@@ -13,4 +13,4 @@ The roadmap covers:
 
 ## Status
 
-🟡 Currently working on creating a mini blog layout.
+🟡 Currently working on creating a mini blog layout using components and props.
