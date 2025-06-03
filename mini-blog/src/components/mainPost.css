@@ -69,3 +69,13 @@ p.description {
     width: 60%;
     margin-bottom: 20px;
 }
+
+@media (max-width: 760px)
+{
+    h2{
+        font-size: 45px;
+    }
+    p.description {
+        width: 100%;
+    }
+}

@@ -27,13 +27,14 @@
 }
 
 .footer-button {
-    background-color: blue;
-    color: white;
+    background-color:#c4e3fd;
+    color: black;
     margin-bottom: 20px;
 }
 
 .footer-button:hover {
-    background-color: aqua;
+    background-color: #1391F8;
+    color: white;
     border: transparent;
 }
 

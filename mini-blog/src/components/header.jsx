@@ -2,7 +2,7 @@
 import logoImg from "../assets/arbyte-blogs.png"
 import "./header.css"
 // import { FaSearch } from "react-icons/fa"
-
+import { FaBars } from 'react-icons/fa'
 
 function Header() {
     return(
@@ -15,7 +15,7 @@ function Header() {
                     <a href="">About Us</a>
                 </nav>
                 <div className="search-bar">
-                    <input type="text" placeholder="Search here"/>
+                    <input type="text"/>
                     {/* <FaSearch className="search-image"/> */}
                     {/* <img className="search-image" src="" alt="Search" /> */}
                 </div>
@@ -24,7 +24,10 @@ function Header() {
                 <button className="login">Log In</button>
                 <button className="signup">Sign Up</button>
             </div>
-            </div>
+            <button className="hamburger">
+                <FaBars size={24} />
+            </button>
+        </div>
     );
 }
 

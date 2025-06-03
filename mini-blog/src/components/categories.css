@@ -27,10 +27,11 @@ button {
 }
 
 .category:hover {
-    background-color: rgb(240, 249, 255);
+    background-color: #c4e3fd;
 }
 
 .all-posts {
-    background-color: rgb(87, 172, 246);
+    background-color:#1391F8;
+    color: white;
     border: transparent;
 }
