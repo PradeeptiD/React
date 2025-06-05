@@ -13,4 +13,14 @@ The roadmap covers:
 
 ## Status
 
-🟡 Currently working on creating a mini blog layout using components and props.
+- Completed mini blog layout using JSX, components and props
+🟡 Currently working on creating a register/login page using useInput custom hook and onChange logic
+
+## Creating React project
+```
+npm create vite@latest my-react-app --template react
+
+cd my-react-app
+
+npm run dev
+```

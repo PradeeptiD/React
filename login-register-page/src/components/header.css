@@ -49,6 +49,18 @@ input {
     border-radius: 25px;
     /* width: 50%; */
     color: black;
+    /* background-color: #d5ecff; */
+    padding-left: 20px;
+    border: transparent;
+    /* box-shadow: 0 0 6px rgba(0, 0, 0, 0.2); */
+}
+
+.header-input{
+    border: 1px solid #013c6b;
+}
+
+input:hover{
+    border: transparent;
 }
 
 .buttons {
@@ -80,6 +92,9 @@ button {
 @media (max-width: 800px) {
     .hamburger{
         display: flex;
+        color: #1391F8;
+        background-color: white;
+        border: transparent;
     }
 
     .navigation{
