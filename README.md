@@ -26,3 +26,9 @@ cd my-react-app
 
 npm run dev
 ```
+
+# Dependencies used
+```
+npm install react-icons
+npm install react-router-dom
+```
