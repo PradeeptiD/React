@@ -14,6 +14,7 @@ The roadmap covers:
 ## Status
 
 - Completed mini blog layout using JSX, components and props
+
 🟡 Currently working on creating a register/login page using useInput custom hook and onChange logic
 
 ## Creating React project
