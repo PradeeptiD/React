@@ -1,6 +1,6 @@
 # 1-Month Full React Roadmap: Beginner to Intermediate
 
-This repository is part of my internship program. Over the next month, I'll be following a structured React learning path designed to help me move from beginner to intermediate level in React development.
+Over the next month, I'll be following a structured React learning path designed to help me move from beginner to intermediate level in React development.
 
 ## Overview
 
