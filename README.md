@@ -15,8 +15,9 @@ The roadmap covers:
 
 - Completed mini blog layout using JSX, components and props
 - Completed login page using useInput custom hook and onChange logic
+- Completed making comments section by rendering components conditionally based on state or props and rendering lists with unique keys
 
-🟡 Currently working on rendering components conditionally based on state or props and rendering lists with unique keys
+🟡 Currently working on creating a useInterval hook that accepts a callback and delay
 
 ## Creating React project
 ```
