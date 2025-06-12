@@ -1,0 +1,109 @@
+.header-container {
+    text-align: center;
+    /* margin: 0px; */
+    /* overflow-x: hidden; */
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    justify-content: space-between;
+    width: 100vw;
+    padding: 10px 10px;
+    height: 50px; 
+    background: #ffffff; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding-bottom: 20px;
+    z-index: 1000;
+}
+
+.logo {
+    height: 70px;
+    margin: 10px;
+}
+
+.hamburger{
+    display: none;
+}
+
+.navigation {
+    display: flex;
+    gap: 20px;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    color: black;
+}
+
+a:hover{
+    color: #1391F8;
+}
+
+input {
+    height: 25px;
+    background-color:white;
+    border-radius: 25px;
+    /* width: 50%; */
+    color: black;
+    /* background-color: #d5ecff; */
+    padding-left: 20px;
+    border: transparent;
+    /* box-shadow: 0 0 6px rgba(0, 0, 0, 0.2); */
+}
+
+.header-input{
+    border: 1px solid #013c6b;
+}
+
+input:hover{
+    border: transparent;
+}
+
+.buttons {
+    margin: 10px;
+    display: flex;
+    white-space: nowrap;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    margin: 5px;
+    margin-right: 20px;
+    height: 30px;
+    /* line-height: 30px; */
+}
+
+.login {
+    background-color: #c4e3fd;
+    color: black;
+}
+
+.signup {
+    background-color: #1391F8;
+    color: white;
+}
+
+@media (max-width: 800px) {
+    .hamburger{
+        display: flex;
+        color: #1391F8;
+        background-color: white;
+        border: transparent;
+    }
+
+    .navigation{
+        display: none;
+    }
+
+    .buttons{
+        display: none;
+    }
+}
