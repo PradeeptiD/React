@@ -91,7 +91,7 @@ export const postInformation = [
     },
     {
         id: 11,
-        title: "Manual Testing Still Matters: The Human Touch in QA",
+        title: "Manual Testing Still Matters: The Human Touch in Quality Assurance",
         description: "Why exploratory and usability testing remain crucial, even in the age of automation.",
         image: "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amF2YXNjcmlwdHxlbnwwfHwwfHx8MA%3D%3D",
         writerImg: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww",
