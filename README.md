@@ -1,4 +1,4 @@
-# 1-Month Full React Roadmap: Beginner to Intermediate
+# React Roadmap
 
 Over the next month, I'll be following a structured React learning path designed to help me move from beginner to intermediate level in React development.
 
