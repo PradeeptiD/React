@@ -1,6 +1,6 @@
 const commentsByPost = {
     1: [
-        { id: 1, author: "Alice", text: "Great intro!", image: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmVtYWxlfGVufDB8fDB8fHww" },
+        { id: 1, author: "Alice", text: "Great intro! Learnt a Lot!", image: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmVtYWxlfGVufDB8fDB8fHww" },
         { id: 2, author: "Bob", text: "Very helpful.", image: "https://images.unsplash.com/photo-1525457136159-8878648a7ad0?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG1hbGV8ZW58MHx8MHx8fDA%3D" },
     ],
     2: [
