@@ -1,0 +1,26 @@
+/* clock */
+.time-constainer{
+    padding: 0;
+    margin: 0 auto;
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+.clock-time{
+    font-weight: bold;
+    font-size: 5rem;
+    margin-top: 250px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(120, 2, 95);
+}
+
+
+
+/* autoRefresh */
+.clock-refresh{
+    font-size: 1.5rem;
+    color:  white;
+}
