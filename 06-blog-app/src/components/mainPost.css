@@ -1,0 +1,81 @@
+.main-post-container {
+    padding-top: 80px;
+    /* display: flex;
+    flex-direction: column; */
+    margin: 0;
+    /* justify-content: center;
+    align-items: center; */
+    text-align: center;
+    max-width: 100%;
+    width: 100vw;
+    overflow: hidden;
+    position: relative;
+    /* background-color: black; */
+}
+
+.main-post-image-wrapper {
+    /* position: relative; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 634px; 
+    padding-bottom: 50px;
+    overflow: hidden;
+    
+}
+.main-post-image {
+    width: 100%;
+    height: 649px;
+    object-fit: cover;
+    display: block;
+    max-width: 100vw;
+    overflow: hidden;
+    /* margin-left: 0;
+    margin: 0; */
+    /* max-width: 100%; */
+
+}
+
+.main-post-text {
+    position: absolute;
+    bottom: 40px;
+    left: 20px;
+    text-align: left;
+    /* background-color: rgba(2, 68, 159, 0.303); */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 80%;
+}
+
+/* .featured {
+    color: white;
+    margin: 20px;
+    margin-bottom: 0px;
+} */
+
+h2 {
+    color: white;
+    margin: 20px;
+    font: bolder;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p.description {
+    color: rgb(255, 251, 251);
+    margin: 20px ;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 760px)
+{
+    h2{
+        font-size: 45px;
+    }
+    p.description {
+        width: 100%;
+    }
+}

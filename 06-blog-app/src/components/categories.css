@@ -1,0 +1,37 @@
+
+
+.categories {
+    display: flex;
+    align-items: center;
+    /* gap: 10px; */
+    padding: 0px 20px;
+    overflow-x: auto;
+    white-space: nowrap;
+    /* max-width: 100vw; */
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.categories::-webkit-scrollbar {
+    display: none;
+}
+
+button {
+    background-color: transparent;
+    color: black;
+    border-radius: 20px;
+}
+
+.category{
+    border: 1px solid rgba(0, 0, 0, 0.293);
+}
+
+.category:hover {
+    background-color: #c4e3fd;
+}
+
+.all-posts {
+    background-color:#1391F8;
+    color: white;
+    border: transparent;
+}

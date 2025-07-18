@@ -1,0 +1,17 @@
+.post-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.post-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.post-link:hover {
+    opacity: 0.95;
+    transform: translateY(-2px);
+    transition: all 0.2s ease;
+}
